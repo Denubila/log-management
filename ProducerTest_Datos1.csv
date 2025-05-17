@@ -1,0 +1,2 @@
+"id","station_id","temperature","humidity","wind_speed","weather_condition","timestamp","received_at","status","error_message"
+1,"STN001","28.5","55.2","15.3","nublado","2025-05-16 19:00:00","2025-05-16 19:21:28.364351","valid",NULL
